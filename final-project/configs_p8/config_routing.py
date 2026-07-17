@@ -1,0 +1,10 @@
+## Routing Configuration
+ENABLE_MESH_ROUTING = True
+USE_TWO_HOP_MESH = True
+
+## Data Packet Configuration
+ENABLE_DATA_PACKETS = True
+DATA_PACKET_START_TIME = 500
+DATA_PACKET_INTERVAL = 50
+DATA_PACKET_COUNT = 5
+

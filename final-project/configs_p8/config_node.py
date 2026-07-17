@@ -1,0 +1,7 @@
+## Network Properties
+BROADCAST_NET_ADDR = 255
+BROADCAST_NODE_ADDR = 255
+
+## Node Physical Properties
+NODE_TX_RANGE = 100
+NODE_ARRIVAL_MAX = 30
