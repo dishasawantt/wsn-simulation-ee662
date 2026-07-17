@@ -4,7 +4,7 @@ from source import wsnlab
 from source.wsnlab import *
 from threading import Thread
 from topovis import Scene
-from topovis.TkPlotter import Plotter
+from topovis.tk_plotter import Plotter
 
 
 class Node(wsnlab.Node):

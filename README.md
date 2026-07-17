@@ -39,6 +39,10 @@ Final project scripts import from `wsnlab/source/` — run from repo root or ens
 - SimPy (discrete-event simulation)
 - Tkinter (topology visualization)
 
+## File Naming
+
+Python modules use `snake_case.py`. Visualization modules live in `wsnlab/topovis/` and `wsnsimpy/topovis/` (`topo_vis.py`, `tk_plotter.py`).
+
 ## Author
 
 **Disha Sawant** — [GitHub](https://github.com/dishasawantt)
