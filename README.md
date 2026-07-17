@@ -43,6 +43,16 @@ Final project scripts import from `wsnlab/source/` — run from repo root or ens
 
 Python modules use `snake_case.py`. Visualization modules live in `wsnlab/topovis/` and `wsnsimpy/topovis/` (`topo_vis.py`, `tk_plotter.py`).
 
+## Consolidated From
+
+These standalone repos are archived; coursework lives in this monorepo:
+
+| Archived repo | Content in this repo |
+|---|---|
+| WSN-Midterm-2 | `wsnlab/`, `wsnsimpy/` |
+| WSN-Final-Project | `final-project/` |
+| WSN-Final | Zip archive (superseded) |
+
 ## Author
 
 **Disha Sawant** — [GitHub](https://github.com/dishasawantt)
