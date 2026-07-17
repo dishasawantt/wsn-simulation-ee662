@@ -4,7 +4,7 @@ from . import wsnsimpy
 from .wsnsimpy import BROADCAST_ADDR, start_delayed, ensure_generator
 from threading import Thread
 from .topovis import Scene,LineStyle
-from .topovis.TkPlotter import Plotter
+from .topovis.tk_plotter import Plotter
 
 ###########################################################
 class Node(wsnsimpy.Node):

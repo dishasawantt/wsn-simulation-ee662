@@ -1,4 +1,4 @@
-from .TopoVis import *
+from .topo_vis import *
 from .common import Parameters
 
 __all__ = ['LineStyle', 'FillStyle', 'TextStyle', 'Node', 'Scene',
